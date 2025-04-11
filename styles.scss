@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: #317773;
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+h1,h2,h3 {
+  color: #317773;
+}
+
+/* Justify text for all paragraphs */
+p {
+  text-align: justify;
+}
+
+/* Do not justify title and subtitle */
+h1, h2 {
+  text-align: inherit;  /* This keeps the default alignment for headings */
+}
+
+/* Specific targeting for title and subtitle to avoid modification */
+.title, .subtitle {
+  text-align: inherit; /* Ensures title and subtitle are not justified */
+}
+
+
+.space-after-links {
+  margin-bottom: 40px;  /* Adjust this to your preferred spacing */
+}
