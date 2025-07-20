@@ -4,6 +4,7 @@ editor:
   markdown: 
     wrap: 72
 ---
+
 <p style="font-size: 1.5em;font-weight: bold;">The lifetime of sequential memory traces in the absence of language</p>
 Ordonez Magro, L., **Pinto Arata, L.**, Fagot, J., Grainger, J., & Rey,
 A. (2024). The lifetime of sequential memory traces in the absence of language. *Cognitive Science*.<br>DOI: [10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)\
