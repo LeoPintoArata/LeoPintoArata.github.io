@@ -1,0 +1,32 @@
+---
+title: "Leonardo&nbsp;Pinto&nbsp;Arata"
+subtitle: "Associate Lecturer<br>Aix-Marseille Université<br><a href='https://crpn.univ-amu.fr/fr'>CRPN, CNRS UMR 7077 </a>"
+
+image: profile_leo.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.fr/citations?user=6tqGr_0AAAAJ&hl=fr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leonardo-pinto-arata-82a692152/
+    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
+      href: https://bsky.app/profile/leopinara.bsky.social
+    - text: "{{< iconify academicons researchgate >}} ResearchGate"
+      icon: ResearchGate
+      href: "https://www.researchgate.net/profile/Leonardo-Pinto-Arata?ev=hdr_xprf"
+    - text: "{{< iconify fa6-brands orcid >}} ORCID"
+      href: "https://orcid.org/0000-0002-1690-3269"
+    - text: "{{< iconify bi mailbox-flag >}} Email"
+      href: "mailto:leonardo.pinto-arata@univ-amu.fr"
+---
+
+## Who am I ?
+
+Hola ! I am Leonardo (or Leo if you prefer), and I am a researcher in cognitive psychology. My work focuses on the learning of linguistic regularities during reading and the underlying prediction processes. I also study the learning of non-linguistic regularities in human and non-human primates in order to investigate the general mechanisms involved in language processing.
+
+I have a Msc. Neuropsychology and Cognitive Psychology from the University of Aix-Marseille. Then, on 20 December 2024, I defended my Ph.D at the Centre de Recherche en Psychologie et Neurosciences in Marseille, France.
+
+HELLO TESTO
