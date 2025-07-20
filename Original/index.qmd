@@ -28,5 +28,3 @@ about: # https://quarto.org/docs/websites/website-about.html
 Hola ! I am Leonardo (or Leo if you prefer), and I am a researcher in cognitive psychology. My work focuses on the learning of linguistic regularities during reading and the underlying prediction processes. I also study the learning of non-linguistic regularities in human and non-human primates in order to investigate the general mechanisms involved in language processing.
 
 I have a Msc. Neuropsychology and Cognitive Psychology from the University of Aix-Marseille. Then, on 20 December 2024, I defended my Ph.D at the Centre de Recherche en Psychologie et Neurosciences in Marseille, France.
-
-HELLO TESTO
