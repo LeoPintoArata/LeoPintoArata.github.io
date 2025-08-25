@@ -5,40 +5,29 @@ editor:
     wrap: 72
 ---
 
-<p style="font-size: 1.5em;font-weight: bold;">The lifetime of sequential memory traces in the absence of language</p>
-Ordonez Magro, L., **Pinto Arata, L.**, Fagot, J., Grainger, J., & Rey,
-A. (2024). The lifetime of sequential memory traces in the absence of language. *Cognitive Science*, *49* (8), e70095.<br>DOI: [10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)\
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/cogs.70095" class="btn btn-primary">View</a>
-<a href="https://hal.science/hal-05200404v1" class="btn btn-outline-secondary">
-<i class="bi bi-filetype-pdf"></i> PDF </a>
-<a href="https://osf.io/vdyt7/?view_only=893a3f4abee04513a98bb5939c4d1d66" class="btn btn-info">Code & Data</a>
+## **The lifetime of sequential memory traces in the absence of language**{.text-dark}
 
-<div class="space-after-links"></div>
+Ordonez Magro, L., **Pinto Arata, L.**, Fagot, J., Grainger, J., & Rey, A. (2024). *The lifetime of sequential memory traces in the absence of language*. *Cognitive Science*, *49*(8), e70095.  
+DOI: [10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)
 
-<p style="font-size: 1.5em;font-weight: bold;">The dynamics of multiword sequence extraction</p>
-**Pinto Arata, L.**, Ordonez Magro, L., Ramisch, C., Grainger, J., & Rey,
-A. (2024). The dynamics of multiword sequence extraction. *Quarterly
-Journal of Experimental Psychology*, *77* (12), 2439–2462.<br>DOI: [10.1177/17470218241228548](https://doi.org/10.1177/17470218241228548)\
-<a href="https://journals.sagepub.com/doi/abs/10.1177/17470218241228548" class="btn btn-primary">View</a>
-<a href="https://hal.science/hal-04409016/document" class="btn btn-outline-secondary">
-<i class="bi bi-filetype-pdf"></i> PDF </a>
-<a href="https://osf.io/h2yns/" class="btn btn-info">Code & Data</a>
+[View article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70095){.btn .btn-primary} [PDF](https://hal.science/hal-05200404v1){.btn .btn-outline-secondary} [Code & Data](https://osf.io/vdyt7/?view_only=893a3f4abee04513a98bb5939c4d1d66){.btn .btn-info}
 
-<div class="space-after-links"></div>
+## **The dynamics of multiword sequence extraction**{.text-dark}
 
-<p style="font-size: 1.5em;font-weight: bold;">Chunking mechanisms in language and other domains</p>
-**Pinto Arata, L.**, Tosatto, L., & Rey, A. (2024). Chunking mechanisms in
-language and other domains. *L'Année psychologique*, *124*(3), 375--408.
-DOI:
-[doi.org/10.3917/anpsy1.243.0375](https://doi.org/10.3917/anpsy1.243.0375%7D%7Bhttps://doi.org/10.3917/anpsy1.243.0375)\
-<a href="https://doi.org/10.3917/anpsy1.243.0375" class="btn btn-primary">View</a>
-<a href="https://hal.science/hal-04791396v1" class="btn btn-outline-secondary">
-<i class="bi bi-filetype-pdf"></i> PDF </a>
+**Pinto Arata, L.**, Ordonez Magro, L., Ramisch, C., Grainger, J., & Rey, A. (2024). *The dynamics of multiword sequence extraction*. *Quarterly Journal of Experimental Psychology*, *77*(12), 2439–2462.  
+DOI: [10.1177/17470218241228548](https://doi.org/10.1177/17470218241228548)
 
-<div class="space-after-links"></div>
+[View article](https://journals.sagepub.com/doi/abs/10.1177/17470218241228548){.btn .btn-primary} [PDF](https://hal.science/hal-04409016/document){.btn .btn-outline-secondary} [Code & Data](https://osf.io/h2yns/){.btn .btn-info}
 
-<p style="font-size: 1.5em;font-weight: bold;">The acquisition of multiword sequences in language processing</p>
-**Pinto Arata, L.** (2024). *The acquisition of multiword sequences in language processing* [Doctoral thesis, Aix-Marseille Université].\
-<a href="https://hal.science/tel-04909221v1" class="btn btn-primary">View</a>
-<a href="https://hal.science/hal-04791396v1" class="btn btn-outline-secondary">
-<i class="bi bi-filetype-pdf"></i> PDF </a>
+## **Chunking mechanisms in language and other domains**{.text-dark}
+
+**Pinto Arata, L.**, Tosatto, L., & Rey, A. (2024). *Chunking mechanisms in language and other domains*. *L'Année psychologique*, *124*(3), 375–408.  
+DOI: [10.3917/anpsy1.243.0375](https://doi.org/10.3917/anpsy1.243.0375)
+
+[View article](https://doi.org/10.3917/anpsy1.243.0375){.btn .btn-primary} [PDF](https://hal.science/hal-04791396v1){.btn .btn-outline-secondary}
+
+## **The acquisition of multiword sequences in language processing**{.text-dark}
+
+**Pinto Arata, L.** (2024). *The acquisition of multiword sequences in language processing* [Doctoral thesis, Aix-Marseille Université].
+
+[View thesis](https://hal.science/tel-04909221v1){.btn .btn-primary} [PDF](https://hal.science/hal-04791396v1){.btn .btn-outline-secondary}
