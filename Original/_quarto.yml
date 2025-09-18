@@ -14,6 +14,8 @@ website:
         icon: mortarboard
       - href: Research.qmd
         text: Research
+      - href: News.qmd  
+        text: News
       - href: CV.qmd  
         text: CV
         
