@@ -7,7 +7,7 @@ editor:
 
 ## **The lifetime of sequential memory traces in the absence of language**{.text-dark}
 
-Ordonez Magro, L., <b>Pinto Arata, L.<a href="#author-note" title="First co-author">*</a></b>, Fagot, J., Grainger, J., & Rey, A. (2024). <i>The lifetime of sequential memory traces in the absence of language</i>. <i>Cognitive Science</i>, <i>49</i>(8), e70095.
+Ordonez Magro, L., <b>Pinto Arata, L.<a href="#author-note" title="First co-author">*</a></b>, Fagot, J., Grainger, J., & Rey, A. (2025). <i>The lifetime of sequential memory traces in the absence of language</i>. <i>Cognitive Science</i>, <i>49</i>(8), e70095.
 DOI: [10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)
 
 [View article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70095){.btn .btn-primary} [PDF](https://hal.science/hal-05200404v1){.btn .btn-outline-secondary} [Code & Data](https://osf.io/vdyt7/?view_only=893a3f4abee04513a98bb5939c4d1d66){.btn .btn-info}

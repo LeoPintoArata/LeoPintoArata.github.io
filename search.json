@@ -4,14 +4,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2024). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
+    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2025). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
   },
   {
     "objectID": "publications.html#the-lifetime-of-sequential-memory-traces-in-the-absence-of-language",
     "href": "publications.html#the-lifetime-of-sequential-memory-traces-in-the-absence-of-language",
     "title": "Publications",
     "section": "",
-    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2024). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
+    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2025). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
   },
   {
     "objectID": "publications.html#the-dynamics-of-multiword-sequence-extraction",
@@ -66,8 +66,8 @@
     "objectID": "Research.html#section-1",
     "href": "Research.html#section-1",
     "title": "Research",
-    "section": "2022",
-    "text": "2022\nPoster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain."
+    "section": "2024",
+    "text": "2024\nPoster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain."
   },
   {
     "objectID": "about.html",
@@ -81,13 +81,20 @@
     "href": "index.html",
     "title": "Leonardo Pinto Arata",
     "section": "",
-    "text": "Hola ! I am Leonardo (or Leo if you prefer), and I am a researcher in cognitive psychology. My work focuses on the learning of linguistic regularities during reading and the underlying prediction processes. I also study the learning of non-linguistic regularities in human and non-human primates in order to investigate the general mechanisms involved in language processing.\nI have a Msc. Neuropsychology and Cognitive Psychology from the University of Aix-Marseille. Then, on 20 December 2024, I defended my Ph.D at the Centre de Recherche en Psychologie et Neurosciences in Marseille, France."
+    "text": "Hola! I’m Leonardo (or Leo, if you prefer), a researcher in cognitive psychology. My research focuses on how humans learn linguistic regularities during reading, and how both humans and non-human primates learn non-linguistic regularities. I am particularly interested in the predictive processes and general mechanisms that underlie statistical and associative learning.\nIn January 2026, I will start a postdoctoral position at the Université Libre de Bruxelles, working alongside Arnaud Destrebecqz. My project will combine behavioural experiments and computational modelling in order to better characterise the mechanisms underlying statistical learning. Specifically, I will be testing whether learning is best captured by chunk-based or transition-based models.\nPreviously, I completed my PhD at the Centre de Recherche en Psychologie et Neurosciences (Aix-Marseille Université, France), under the supervision of Arnaud Rey and Carlos Ramisch. My doctoral research investigated the acquisition of multiword sequences in real time. Part of this research examined sequence learning in Guinea baboons, revealing the similarities in learning mechanisms between humans and non-human primates."
   },
   {
     "objectID": "index.html#who-am-i",
     "href": "index.html#who-am-i",
     "title": "Leonardo Pinto Arata",
     "section": "",
-    "text": "Hola ! I am Leonardo (or Leo if you prefer), and I am a researcher in cognitive psychology. My work focuses on the learning of linguistic regularities during reading and the underlying prediction processes. I also study the learning of non-linguistic regularities in human and non-human primates in order to investigate the general mechanisms involved in language processing.\nI have a Msc. Neuropsychology and Cognitive Psychology from the University of Aix-Marseille. Then, on 20 December 2024, I defended my Ph.D at the Centre de Recherche en Psychologie et Neurosciences in Marseille, France."
+    "text": "Hola! I’m Leonardo (or Leo, if you prefer), a researcher in cognitive psychology. My research focuses on how humans learn linguistic regularities during reading, and how both humans and non-human primates learn non-linguistic regularities. I am particularly interested in the predictive processes and general mechanisms that underlie statistical and associative learning.\nIn January 2026, I will start a postdoctoral position at the Université Libre de Bruxelles, working alongside Arnaud Destrebecqz. My project will combine behavioural experiments and computational modelling in order to better characterise the mechanisms underlying statistical learning. Specifically, I will be testing whether learning is best captured by chunk-based or transition-based models.\nPreviously, I completed my PhD at the Centre de Recherche en Psychologie et Neurosciences (Aix-Marseille Université, France), under the supervision of Arnaud Rey and Carlos Ramisch. My doctoral research investigated the acquisition of multiword sequences in real time. Part of this research examined sequence learning in Guinea baboons, revealing the similarities in learning mechanisms between humans and non-human primates."
+  },
+  {
+    "objectID": "Research.html#section-2",
+    "href": "Research.html#section-2",
+    "title": "Research",
+    "section": "2022",
+    "text": "2022\nPoster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain."
   }
 ]

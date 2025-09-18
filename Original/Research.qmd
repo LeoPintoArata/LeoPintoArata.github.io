@@ -2,6 +2,12 @@
 title: Research
 ---
 
+## 2025
+
+Poster presented at the 24th Conference of the European Society for Cognitive Psychology (ESCoP), Sheffield, UK.
+
+![](images/ESCOP25_LPA_1.jpeg){fig-align="center" width="1627"}
+
 ## 2024
 
 Poster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain.
