@@ -5,31 +5,58 @@ editor:
     wrap: 72
 ---
 
-## **The lifetime of sequential memory traces in the absence of language**{.text-dark}
+## **The lifetime of sequential memory traces in the absence of language** {.text-dark}
 
-Ordonez Magro, L., <b>Pinto Arata, L.<a href="#author-note" title="First co-author">*</a></b>, Fagot, J., Grainger, J., & Rey, A. (2025). <i>The lifetime of sequential memory traces in the absence of language</i>. <i>Cognitive Science</i>, <i>49</i>(8), e70095.
-DOI: [10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)
+Ordonez Magro, L., <b>Pinto Arata,
+L.<a href="#author-note" title="First co-author">\*</a></b>, Fagot, J.,
+Grainger, J., & Rey, A. (2025). <i>The lifetime of sequential memory
+traces in the absence of language</i>. <i>Cognitive Science</i>,
+<i>49</i>(8), e70095. DOI:
+[10.1111/cogs.70095](https://doi.org/10.1111/cogs.70095)
 
-[View article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70095){.btn .btn-primary} [PDF](https://hal.science/hal-05200404v1){.btn .btn-outline-secondary} [Code & Data](https://osf.io/vdyt7/?view_only=893a3f4abee04513a98bb5939c4d1d66){.btn .btn-info}
+[View
+article](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70095){.btn
+.btn-primary} [PDF](https://hal.science/hal-05200404v1){.btn
+.btn-outline-secondary} [Code &
+Data](https://osf.io/vdyt7/?view_only=893a3f4abee04513a98bb5939c4d1d66){.btn
+.btn-info}
 
-## **The dynamics of multiword sequence extraction**{.text-dark}
+## **The dynamics of multiword sequence extraction** {.text-dark}
 
-**Pinto Arata, L.**, Ordonez Magro, L., Ramisch, C., Grainger, J., & Rey, A. (2024). *The dynamics of multiword sequence extraction*. *Quarterly Journal of Experimental Psychology*, *77*(12), 2439–2462.  
-DOI: [10.1177/17470218241228548](https://doi.org/10.1177/17470218241228548)
+**Pinto Arata, L.**, Ordonez Magro, L., Ramisch, C., Grainger, J., &
+Rey, A. (2024). *The dynamics of multiword sequence extraction*.
+*Quarterly Journal of Experimental Psychology*, *77*(12), 2439–2462.\
+DOI:
+[10.1177/17470218241228548](https://doi.org/10.1177/17470218241228548)
 
-[View article](https://journals.sagepub.com/doi/abs/10.1177/17470218241228548){.btn .btn-primary} [PDF](https://hal.science/hal-04409016/document){.btn .btn-outline-secondary} [Code & Data](https://osf.io/h2yns/){.btn .btn-info}
+[View
+article](https://journals.sagepub.com/doi/abs/10.1177/17470218241228548){.btn
+.btn-primary} [PDF](https://hal.science/hal-04409016/document){.btn
+.btn-outline-secondary} [Code & Data](https://osf.io/h2yns/){.btn
+.btn-info}
 
-## **Chunking mechanisms in language and other domains**{.text-dark}
+## **Chunking mechanisms in language and other domains** {.text-dark}
 
-**Pinto Arata, L.**, Tosatto, L., & Rey, A. (2024). *Chunking mechanisms in language and other domains*. *L'Année psychologique*, *124*(3), 375–408.  
+**Pinto Arata, L.**, Tosatto, L., & Rey, A. (2024). *Chunking mechanisms
+in language and other domains*. *L'Année psychologique*, *124*(3),
+375–408.\
 DOI: [10.3917/anpsy1.243.0375](https://doi.org/10.3917/anpsy1.243.0375)
 
-[View article](https://doi.org/10.3917/anpsy1.243.0375){.btn .btn-primary} [PDF](https://hal.science/hal-04791396v1){.btn .btn-outline-secondary}
+[View article](https://doi.org/10.3917/anpsy1.243.0375){.btn
+.btn-primary} [PDF](https://hal.science/hal-04791396v1){.btn
+.btn-outline-secondary}
 
-## **The acquisition of multiword sequences in language processing**{.text-dark}
+## **The acquisition of multiword sequences in language processing** {.text-dark}
 
-**Pinto Arata, L.** (2024). *The acquisition of multiword sequences in language processing* [Doctoral thesis, Aix-Marseille Université].
+**Pinto Arata, L.** (2024). *The acquisition of multiword sequences in
+language processing* \[Doctoral thesis, Aix-Marseille Université\].
 
-[View thesis](https://hal.science/tel-04909221v1){.btn .btn-primary} [PDF](https://hal.science/hal-04791396v1){.btn .btn-outline-secondary}
+[View thesis](https://hal.science/tel-04909221v1){.btn .btn-primary}
+[PDF](https://hal.science/hal-04791396v1){.btn .btn-outline-secondary}
 
-<p id="author-note"><b>*</b> First co-author.</p>
+<p id="author-note">
+
+<b>\*</b> First co-author.
+
+</p>
+
