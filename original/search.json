@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2025). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
+  },
+  {
+    "objectID": "publications.html#the-lifetime-of-sequential-memory-traces-in-the-absence-of-language",
+    "href": "publications.html#the-lifetime-of-sequential-memory-traces-in-the-absence-of-language",
+    "title": "Publications",
+    "section": "",
+    "text": "Ordonez Magro, L., Pinto Arata, L.*, Fagot, J., Grainger, J., & Rey, A. (2025). The lifetime of sequential memory traces in the absence of language. Cognitive Science, 49(8), e70095. DOI: 10.1111/cogs.70095\nView article PDF Code & Data"
+  },
+  {
+    "objectID": "publications.html#the-dynamics-of-multiword-sequence-extraction",
+    "href": "publications.html#the-dynamics-of-multiword-sequence-extraction",
+    "title": "Publications",
+    "section": "The dynamics of multiword sequence extraction",
+    "text": "The dynamics of multiword sequence extraction\nPinto Arata, L., Ordonez Magro, L., Ramisch, C., Grainger, J., & Rey, A. (2024). The dynamics of multiword sequence extraction. Quarterly Journal of Experimental Psychology, 77(12), 2439–2462.\nDOI: 10.1177/17470218241228548\nView article PDF Code & Data"
+  },
+  {
+    "objectID": "publications.html#chunking-mechanisms-in-language-and-other-domains",
+    "href": "publications.html#chunking-mechanisms-in-language-and-other-domains",
+    "title": "Publications",
+    "section": "Chunking mechanisms in language and other domains",
+    "text": "Chunking mechanisms in language and other domains\nPinto Arata, L., Tosatto, L., & Rey, A. (2024). Chunking mechanisms in language and other domains. L’Année psychologique, 124(3), 375–408.\nDOI: 10.3917/anpsy1.243.0375\nView article PDF"
+  },
+  {
+    "objectID": "publications.html#the-acquisition-of-multiword-sequences-in-language-processing",
+    "href": "publications.html#the-acquisition-of-multiword-sequences-in-language-processing",
+    "title": "Publications",
+    "section": "The acquisition of multiword sequences in language processing",
+    "text": "The acquisition of multiword sequences in language processing\nPinto Arata, L. (2024). The acquisition of multiword sequences in language processing [Doctoral thesis, Aix-Marseille Université].\nView thesis PDF\n\n* First co-author."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "",
+    "section": "",
+    "text": "Here you can find my CV:"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Poster presented at the 24th Conference of the European Society for Cognitive Psychology (ESCoP), Sheffield, UK."
+  },
+  {
+    "objectID": "Research.html#section",
+    "href": "Research.html#section",
+    "title": "Research",
+    "section": "",
+    "text": "Poster presented at the 24th Conference of the European Society for Cognitive Psychology (ESCoP), Sheffield, UK."
+  },
+  {
+    "objectID": "Research.html#section-1",
+    "href": "Research.html#section-1",
+    "title": "Research",
+    "section": "2024",
+    "text": "2024\nPoster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Leonardo Pinto Arata",
+    "section": "",
+    "text": "Hola! I’m Leonardo (or Leo, if you prefer), a researcher in cognitive psychology. My research focuses on how humans learn linguistic regularities during reading, and how both humans and non-human primates learn non-linguistic regularities. I am particularly interested in the predictive processes and general mechanisms that underlie statistical and associative learning.\nIn January 2026, I will start a postdoctoral position at the Université Libre de Bruxelles, working alongside Arnaud Destrebecqz. My project will combine behavioural experiments and computational modelling in order to better characterise the mechanisms underlying statistical learning. Specifically, I will be testing whether learning is best captured by chunk-based or transition-based models.\nPreviously, I completed my PhD at the Centre de Recherche en Psychologie et Neurosciences (Aix-Marseille Université, France), under the supervision of Arnaud Rey and Carlos Ramisch. My doctoral research investigated the acquisition of multiword sequences in real time. Part of this research examined sequence learning in Guinea baboons, revealing the similarities in learning mechanisms between humans and non-human primates."
+  },
+  {
+    "objectID": "index.html#who-am-i",
+    "href": "index.html#who-am-i",
+    "title": "Leonardo Pinto Arata",
+    "section": "",
+    "text": "Hola! I’m Leonardo (or Leo, if you prefer), a researcher in cognitive psychology. My research focuses on how humans learn linguistic regularities during reading, and how both humans and non-human primates learn non-linguistic regularities. I am particularly interested in the predictive processes and general mechanisms that underlie statistical and associative learning.\nIn January 2026, I will start a postdoctoral position at the Université Libre de Bruxelles, working alongside Arnaud Destrebecqz. My project will combine behavioural experiments and computational modelling in order to better characterise the mechanisms underlying statistical learning. Specifically, I will be testing whether learning is best captured by chunk-based or transition-based models.\nPreviously, I completed my PhD at the Centre de Recherche en Psychologie et Neurosciences (Aix-Marseille Université, France), under the supervision of Arnaud Rey and Carlos Ramisch. My doctoral research investigated the acquisition of multiword sequences in real time. Part of this research examined sequence learning in Guinea baboons, revealing the similarities in learning mechanisms between humans and non-human primates."
+  },
+  {
+    "objectID": "Research.html#section-2",
+    "href": "Research.html#section-2",
+    "title": "Research",
+    "section": "2022",
+    "text": "2022\nPoster presented at the Conference on Interdisciplinary Advances in Statistical Learning, San Sebastian, Spain."
+  },
+  {
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "News",
+    "section": "",
+    "text": "Published: 18 September, 2025\n I am delighted to announce that my project, Bracketing or Clustering? Exploring the Cognitive Foundations of Statistical Learning, has been awarded a 2-year Fyssen Postdoctoral Fellowship.\nThis research is a natural continuation of the questions raised in my PhD dissertation and stems from an engaging discussion during my viva with Prof. Arnaud Destrebecqz. The project aims to uncover the computational mechanisms underlying statistical learning. Specifically, it seeks to better characterise these mechanisms by combining behavioural experiments, which test participants’ ability to extract a variety of statistical regularities, with computational modelling, comparing the performance of chunk-based models and more recent transition-based models—including the latest generation of recurrent neural networks (RNNs)—across different experimental contexts.\nI am incredibly grateful to begin this position at one of Europe’s top-ranking universities, under the guidance of an outstanding supervisor, Prof. Arnaud Destrebecqz."
+  },
+  {
+    "objectID": "News.html#phd-viva",
+    "href": "News.html#phd-viva",
+    "title": "News",
+    "section": "",
+    "text": "Published: February 16, 2023\n\nOn 20 December 2024, I successfully defended my PhD dissertation in Psychology at Aix-Marseille Université, entitled “The acquisition of multiword sequences in language processing”. It was an incredible milestone, and I’m grateful for the guidance of my supervisors and the support of colleagues and family throughout this journey.\nMy sincere thanks go to the reading committee and the examination board for taking the time to review my manuscript and discuss it with me. You can find my dissertation online here."
+  },
+  {
+    "objectID": "News.html#phd-viva-throwback",
+    "href": "News.html#phd-viva-throwback",
+    "title": "News",
+    "section": "PhD viva throwback",
+    "text": "PhD viva throwback\n Published: 18 September, 2025\n\n\n\nFrom left to rigth: Carlos Ramisch, Bénédicte Poulin-Charronnat, Padraic Monaghan, Arnaud Rey, Leonardo Pinto Arata, and Arnaud Destrebecqz.\n\n\nOn 20 December 2024, I successfully defended my PhD dissertation in Psychology at Aix-Marseille Université, entitled “The acquisition of multiword sequences in language processing”. It was an incredible milestone, and I’m grateful for the guidance of my supervisors and the support of colleagues and family throughout this journey.\nMy sincere thanks go to the reading committee and the examination board for taking the time to review my manuscript and discuss it with me. You can find my dissertation online here."
+  },
+  {
+    "objectID": "News.html#fyssen-postdoctoral-fellowship",
+    "href": "News.html#fyssen-postdoctoral-fellowship",
+    "title": "News",
+    "section": "",
+    "text": "Published: 18 September, 2025\n I am delighted to announce that my project, Bracketing or Clustering? Exploring the Cognitive Foundations of Statistical Learning, has been awarded a 2-year Fyssen Postdoctoral Fellowship.\nThis research is a natural continuation of the questions raised in my PhD dissertation and stems from an engaging discussion during my viva with Prof. Arnaud Destrebecqz. The project aims to uncover the computational mechanisms underlying statistical learning. Specifically, it seeks to better characterise these mechanisms by combining behavioural experiments, which test participants’ ability to extract a variety of statistical regularities, with computational modelling, comparing the performance of chunk-based models and more recent transition-based models—including the latest generation of recurrent neural networks (RNNs)—across different experimental contexts.\nI am incredibly grateful to begin this position at one of Europe’s top-ranking universities, under the guidance of an outstanding supervisor, Prof. Arnaud Destrebecqz."
+  }
+]

@@ -2,27 +2,23 @@
 title: "News"
 editor: visual
 ---
+
 ## Fyssen Postdoctoral Fellowship
 
-*{{< iconify bi lucide:calendar >}} Published: 18 September, 2025*
+{{< iconify bi lucide:calendar >}} *Published: 18 September, 2025*
 
+![](images/Fyssenlogo.png){fig-align="center" width="1627"} I am delighted to announce that my project, *Bracketing or Clustering? Exploring the Cognitive Foundations of Statistical Learning*, has been awarded a [**2-year Fyssen Postdoctoral Fellowship**](https://www.fondationfyssen.fr/en/home/).
 
-![](images/Fyssenlogo.png){fig-align="center" width="1627"}
-I am delighted to announce that my project, *Bracketing or Clustering? Exploring the Cognitive Foundations of Statistical Learning*, has been awarded a [**2-year Fyssen Postdoctoral Fellowship**](https://www.fondationfyssen.fr/en/home/).  
-
-This research is a natural continuation of the questions raised in my PhD dissertation and stems from an engaging discussion during my viva with Prof. Arnaud Destrebecqz. The project aims to uncover the computational mechanisms underlying statistical learning. Specifically, it seeks to better characterise these mechanisms by combining **behavioural experiments**, which test participants’ ability to extract a variety of statistical regularities, with **computational modelling**, comparing the performance of chunk-based models and more recent transition-based models—including the latest generation of recurrent neural networks (RNNs)—across different experimental contexts.  
+This research is a natural continuation of the questions raised in my PhD dissertation and stems from an engaging discussion during my viva with Prof. Arnaud Destrebecqz. The project aims to uncover the computational mechanisms underlying statistical learning. Specifically, it seeks to better characterise these mechanisms by combining **behavioural experiments**, which test participants’ ability to extract a variety of statistical regularities, with **computational modelling**, comparing the performance of chunk-based models and more recent transition-based models—including the latest generation of recurrent neural networks (RNNs)—across different experimental contexts.
 
 I am incredibly grateful to begin this position at one of Europe’s top-ranking universities, under the guidance of an outstanding supervisor, Prof. Arnaud Destrebecqz.
 
 ## PhD viva throwback
 
-*{{< iconify bi lucide:calendar >}} Published: 18 September, 2025*
-
+{{< iconify bi lucide:calendar >}} *Published: 18 September, 2025*
 
 ![From left to rigth: Carlos Ramisch, Bénédicte Poulin-Charronnat, Padraic Monaghan, Arnaud Rey, Leonardo Pinto Arata, and Arnaud Destrebecqz.](images/Photo_viva2024.jpg)
 
-
 On 20 December 2024, I successfully defended my PhD dissertation in Psychology at Aix-Marseille Université, entitled “The acquisition of multiword sequences in language processing”. It was an incredible milestone, and I’m grateful for the guidance of my supervisors and the support of colleagues and family throughout this journey.
 
-My sincere thanks go to the reading committee and the examination board for taking the time to review my manuscript and discuss it with me. 
-You can find my dissertation online [here](https://hal.science/tel-04909221v1/file/PINTO-ARATA_Leonardo_These_24_10_24.pdf).
+My sincere thanks go to the reading committee and the examination board for taking the time to review my manuscript and discuss it with me. You can find my dissertation online [here](https://hal.science/tel-04909221v1/file/PINTO-ARATA_Leonardo_These_24_10_24.pdf).
