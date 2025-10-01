@@ -1,8 +1,0 @@
----
-Title: CV
----
-
-Here you can find my **CV**:
-
-<iframe src="CV_Leonardo2025.pdf" width="100%" height="800px" style="border: none;"></iframe>
-
